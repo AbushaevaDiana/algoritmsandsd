@@ -1,0 +1,1 @@
+Tree is empty. Min in input tree is 12
